@@ -1,1 +1,16 @@
-[{"id":"3245567","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"Glass","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AkHwAF_sEgDgmbIffvldlOQ-rWV2aTVcFbGLlLTOjfkp3bLzf3PuMxEHnfPCpmrgdEE&usqp=CAU","description":"dfdfngifjbbngfbrsgjs';hsmkm","price":"67","id":"0.6677702311280804"}]
+[
+  {
+    "id": "3245567",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "title": "Glass",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AkHwAF_sEgDgmbIffvldlOQ-rWV2aTVcFbGLlLTOjfkp3bLzf3PuMxEHnfPCpmrgdEE&usqp=CAU",
+    "description": "dfdfngifjbbngfbrsgjs';hsmkm",
+    "price": "67",
+    "id": "0.6677702311280804"
+  }
+]
